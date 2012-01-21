@@ -1,0 +1,32 @@
+{
+status:200,
+gogoFacts:'The first female flight attendants in 1930 were required to be registered nurses. In addition to serving the cabin, they took tickets, loaded luggage, fueled the plane, and even helped pilots push the aircraft into the hangar.',
+serviceInfo:{
+	alerts:[],
+	service:'Active',
+	remaining:'89400',
+	quality:'Good'	},
+flightInfo:{
+	logo:'https://www.aa.com/content/images/footer/footer_AAVacations.gif',
+	airlineName:'Delta Air Lines',
+	flightNumber:'386',
+	departureCity:'New York',
+	destinationCity:'Portland',
+	origin:'JFK',
+	destination:'PDX',
+	loggedIn:'1',
+	destinationAirportCode:'KPDX',
+	departureAirportCode:'KJFK',
+	flightNumberInfo:'DAL386',
+	airlineCode:'DAL',	
+	tailNumber:'N3759',
+	hSpeed:'181.3005',
+	vSpeed:'0.099609',
+	latitude:'39.978195',
+	longitude:'-78.2115',
+	altitude:'10375.5',
+	localTime:'2012-01-21T00:37:04.0Z0:0',
+	utcTime:'Sat Jan 21 00:37:04 UTC 2012',
+	expectedArrival:'Sat Jan 21 06:02:00 UTC 2012'	}
+,'errors':[]
+}
